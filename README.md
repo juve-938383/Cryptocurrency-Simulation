@@ -21,6 +21,6 @@ In order to run the builds of the project:
 - if you want to run the jar, use ```java -jar dasktop-1.0.jar``` in the directory where the file is located;
 
 ![Image of the program running]
-[https://github.com/juve-938383/Cryptocurrency-Simulation/blob/main/Source/Cryptocurrency Simulation/assets/Simulation Example.png]
+(https://github.com/juve-938383/Cryptocurrency-Simulation/blob/main/Source/Cryptocurrency%20Simulation/assets/Simulation%20Example.png?raw=true)
 
 ©juve938383 All rights reserved
