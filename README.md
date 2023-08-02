@@ -22,4 +22,10 @@ In order to run the builds of the project:
 
 ![Image of the program running](https://github.com/juve-938383/Cryptocurrency-Simulation/blob/main/Source/Cryptocurrency%20Simulation/assets/Simulation%20Example.png?raw=true)
 
+[![Watch the video](https://img.youtube.com/vi/r9oSzoL8otQ/hqdefault.jpg)](https://www.youtube.com/embed/r9oSzoL8otQ)
+
+[<img src="https://img.youtube.com/vi/r9oSzoL8otQ/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/r9oSzoL8otQ)
+
+
 ©juve938383 All rights reserved
