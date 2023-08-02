@@ -26,7 +26,8 @@ Below is a diagram of the UI elements of the program and what they mean.
 
 Here is a video of the program running.
 
-[![Watch the video](https://img.youtube.com/vi/r9oSzoL8otQ/hqdefault.jpg)](https://www.youtube.com/embed/r9oSzoL8otQ)
+[<img src="https://img.youtube.com/vi/r9oSzoL8otQ/hqdefault.jpg" width="1920" height="1080"
+/>](https://www.youtube.com/embed/r9oSzoL8otQ)
 
 
 
