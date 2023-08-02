@@ -1,5 +1,5 @@
 # Cryptocurrency-Simulation
- A Bitcoin-based cryptocurrency simulation in Java for a school project.
+ A Bitcoin-based cryptocurrency simulation made in Java for a school project.
  
 # Goal
  The aim of this project is the creation of a simulation of a network of cryptocurrency exchange based on the blockchain technology and, specifically, the model of Bitcoin, in Java.
@@ -20,12 +20,13 @@ In order to run the builds of the project:
 - run ```Cryptocurrency Sim.exe```;
 - if you want to run the jar, use ```java -jar dasktop-1.0.jar``` in the directory where the file is located;
 
-![Image of the program running](https://github.com/juve-938383/Cryptocurrency-Simulation/blob/main/Source/Cryptocurrency%20Simulation/assets/Simulation%20Example.png?raw=true)
+# Program in action
+Below is a diagram of the UI elements of the program and what they mean.
+![Diagram of the program's UI elements](https://github.com/juve-938383/Cryptocurrency-Simulation/blob/main/Source/Cryptocurrency Simulation/assets/Simulation UI Elements.png)
 
+Here is a video of the program running.
 [![Watch the video](https://img.youtube.com/vi/r9oSzoL8otQ/hqdefault.jpg)](https://www.youtube.com/embed/r9oSzoL8otQ)
 
-[<img src="https://img.youtube.com/vi/r9oSzoL8otQ/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/r9oSzoL8otQ)
 
 
 ©juve938383 All rights reserved
