@@ -22,9 +22,10 @@ In order to run the builds of the project:
 
 # Program in action
 Below is a diagram of the UI elements of the program and what they mean.
-![Diagram of the program's UI elements](https://github.com/juve-938383/Cryptocurrency-Simulation/blob/main/Source/Cryptocurrency Simulation/assets/Simulation UI Elements.png)
+![Diagram of the program's UI elements](https://github.com/juve-938383/Cryptocurrency-Simulation/blob/main/Source/Cryptocurrency%20Simulation/assets/Simulation%20UI%20Elements.png)
 
 Here is a video of the program running.
+
 [![Watch the video](https://img.youtube.com/vi/r9oSzoL8otQ/hqdefault.jpg)](https://www.youtube.com/embed/r9oSzoL8otQ)
 
 
