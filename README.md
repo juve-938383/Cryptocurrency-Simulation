@@ -1,5 +1,5 @@
 # Cryptocurrency-Simulation
- A Bitcoin-based cryptocurrency simulation made in Java for a school project.
+ A Bitcoin-based cryptocurrency simulation written in Java for a school project.
  
 # Goal
  The aim of this project is the creation of a simulation of a network of cryptocurrency exchange based on the blockchain technology and, specifically, the model of Bitcoin, in Java.
