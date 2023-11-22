@@ -26,8 +26,7 @@ Below is a diagram of the UI elements of the program and what they mean.
 
 Here is a video of the program running.
 
-[<img src="https://img.youtube.com/vi/r9oSzoL8otQ/hqdefault.jpg" width="1920" height="1080"
-/>](https://www.youtube.com/embed/r9oSzoL8otQ)
+[![Cryptocurrency Simulation](https://img.youtube.com/vi/r9oSzoL8otQ/maxresdefault.jpg)](https://youtu.be/r9oSzoL8otQ)
 
 
 
